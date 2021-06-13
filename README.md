@@ -35,7 +35,7 @@ R= El valor de la corriente original es de 3 A.
 
 **22. Se necesita medir la resistencia de un elemento calentador eléctrico, pero sólo se tiene una batería de 12 V y un amperímetro. Describa cómo determinaría su resistencia. Incluya un bosquejo.**
 
-Aplico la ley de Ohm ya que poseo la medida del voltaje de la batería y con el amperímetro conectándolo en serie obtengo la medida de la corriente y mediante la formula R=V/I determino la resistencia de un elemento del calentador eléctrico
+Aplico la ley de Ohm ya que poseo la medida del voltaje de la batería y con el amperímetro conectándolo en serie obtengo la medida de la corriente y mediante la formula R=V/I determino medida de la resistencia de un elemento del calentador eléctrico.
 
 <img src="imagenes/img1.png">
 
