@@ -123,7 +123,7 @@ b. Si la carga disipa 36 W ¿cuál es la resistencia de la carga?
 
 El circuito soporta 50A por lo que al conectar el tostador, se sobrecargaria el circuito a lo cual llevaría a que se fundiera.
 
-**41. Un resistor de 0.27 kΩ es especificado en 2W. Calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación. **
+**41. Un resistor de 0.27 kΩ es especificado en 2W. Calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación.**
 
 **42. Determinar cuál de los siguientes resistores pudo haber sido dañado por sobrecalentamiento. Explique su respuestas**
 
