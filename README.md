@@ -129,11 +129,49 @@ El circuito soporta 50A por lo que al conectar el tostador, se sobrecargaria el 
 
 **A. 560Ω, ½ W con 75V a través de él**
 
+P = (v^2)/R
+
+P = 75^2/560
+
+P=10.045 W
+
+El valor nominal de la resistencia es (0.50)W a lo cual no es suficiente para manejar la potencia, la resistencia se ha dañado.
+
 **B. 3Ω, 20W con 4A a través de él** 
+
+P=I^2xR
+
+P=(4)^2x(3)
+
+P=48 W
+
+El valor nominal de la resistencia es (20)W a lo cual no es suficiente para manejar la potencia, la resistencia se ha dañado.
 
 **C. ¼ W con 0.25mA y 40 V a través de él**
 
+0.25mA= 0.25/1000=(2.5x10^-4)A
+
+P=VxI
+
+P=40 x (2.5x10^-4)
+
+P=0.01 W
+
+El valor nominal de la resistencia es (0.25)W a lo cual es suficiente para manejar la potencia, la resistencia sigue sirviendo.
+
 **43. Un resistor de 25Ω se conecta a un suministro de energía cuyo voltaje es de 100V ± 5% ¿Cuál es el posible intervalo de potencia disipada por el resistor?**
+
+P= (v^2)/R
+
+P1= (105)^2/25
+
+P1=441 W
+
+P2=(95)^2/25
+
+P2=361 W
+
+El posible intervalo de potencia es :361< P< 441
 
 **44. Una carga de resistencia hecha de alambre de cobre se conecta a una fuente de cd de 24V. La potencia disipada por la carga cuando la temperatura del alambre es de 20 °C es de 192W. ¿Cuál será la potencia disipada cuando la temperatura del alambre disminuya a -10°C? (Suponga que el voltaje permanece constante).**
 
@@ -141,19 +179,53 @@ El circuito soporta 50A por lo que al conectar el tostador, se sobrecargaria el 
 
 **A.**
 
+P = VxI
+
+P= 12Vx4A
+
+P= 48W
+
 **B.**
+
+P = VxI
+
+P=-15Vx2A
+
+P=-30 W
 
 **C.**
 
+P = VxI
+
+P= 8Vx-16A
+
+P=-128 W
+
 **D.**
+
+P = VxI
+
+P= -30Vx-8A
+
+P=240 W
 
 **46. La batería de 12V de la figura 4-39 está siendo “cargada” por un cargador. La corriente es de 4.5A como se indica.** 
 
 **A. ¿Cual es la dirección de la corriente?**
 
+La dirección de la corriente es positiva osea hacia la derecha.
+
 **B. ¿Cual es la dirección del flujo de potencia?**
 
+La dirección de la Potencia es positiva osea hacia la derecha.
+
 **C. ¿Cual es la potencia que llega a la batería?**
+
+P = VxI
+
+P= 12Vx4.5A
+
+P=54W
 
 **47.Una lámpara de seguridad nocturna de 40W se enciende por 9 horas.**
 
@@ -210,7 +282,7 @@ hacen:**
 
 **60. Un motor de cd de 120 V desarrolla una salida de 3.8 hp. Si su eficiencia es de 88%, ¿cuánta corriente demanda?**
 
-**61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo? **
+**61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo?**
 
 **62.Demuestre que la eficiencia de n dispositivos o sistemas en cascada es el producto de sus eficiencias individuales, es decir, que nT=n1 x n2 x … x nn**
 
