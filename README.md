@@ -237,17 +237,87 @@ P=54W
 
 **48. Una lámpara indicadora en un papel de control opera de forma continua, requiere 20mA de un suministro de 120V. A $0.09 por kilowatt-hora ¿Cuánto cuesta al año el funcionamiento de esta lámpara?**
 
+I=20mA=20/1000=0.02A
+
+P=VxI
+
+P=120V*0.02A
+
+P=2.4W
+
+W=Pxt
+
+W=(2.4W)x(8760 h)
+
+W= 21024 Wh
+
+W= 21024 Wh=21.024kWh
+
+Costo=(21.024kWh)(0.09kWh)
+
+Costo=$189.216 ctvs
+
 **49. Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:**
 
 **A. Un tostador de 900W por 5 minutos**
 
+W=Pxt
+
+W=(900w)(5/60)
+
+75Wh=0.075kwh
+
+Costo=(0.075kwh)($0.11kwh)
+
+Costo= 0.825 ctvs
+
 **B. Un calentador de 120V y 8A por 1.7 horas**
 
+P=VxI
+
+P=120Vx8A
+
+P= 960 W
+
+W=Pxt
+
+W=(960W)x(1.7h)
+
+W=1632 Wh
+
+W=1632 Wh=1.632 kWh
+
+Costo=(1.632 kWh)($0.11kwh)
+
+Costo=0.1795ctvs
+
 **C. Un lavaplatos de 1100W por 36 minutos**
+
+W=Pxt
+
+W=(1100W)(36/60)
+
+660Wh=0.66kwh
+
+Costo=(0.66kwh)($0.11kwh)
+
+Costo=7.26 ctvs
 
 **D.Un cautín de 120V y 288Ω por 24 minutos**
 
 **50. Un dispositivo eléctrico con un ciclo de una hora opera a su máxima potencia 400W por 15 minutos, a potencia media por 30 minutos, luego se apaga por el resto de la hora. El ciclo se repite de manera continua. A $0.10/kWh, determine el costo anual para operar este dispositivo.**
+
+W=(400)(15/60)+(200)(30/60)
+
+W=200Wh=0.2kWh
+
+Costo x hora=(0.2kWh)($0.10/kWh)
+
+Costo x hora=$0.02 ctvs
+
+costo x dia =$0.48 ctvs
+
+costo x  año =$ 175.20 ctvs
 
 **51. Mientras el dispositivo del problema 50 opera, otras dos cargas también lo
 hacen:**
