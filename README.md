@@ -21,7 +21,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 3 (Resistencia)
 
-#### Capitulo 4 (Ley de Ohm, potencia y energía
+#### Capitulo 4 (Ley de Ohm, potencia y energía)
 
 ### 4. VIDEO
 
