@@ -23,25 +23,25 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 2. Determine la resistencia, a 20ºC, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales:
 
-
+<img src=imagenes/ejercicio2.jpeg width= "520">
 
 4. El alambre de nicromo se usa para construir elementos calefactores. Determine la longitud de un alambre de nicromo de 1.0 mm de diámetro que se necesita para producir un elemento calefactor que tenga una resistencia de 2.0 ohm a una temperatura de 20°C.
 
-
+<img src=imagenes/ejercicio4.jpeg width= "320">
 
 6. Una pieza de alambre de aluminio tiene una resistencia, a 20°C, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿cuál será la resistencia del nuevo alambre a 20°C? (Sugerencia: el volumen del alambre no ha cambiado.)
 
-
+<img src=imagenes/ejercicio6.jpeg width= "320">
 
 8. Un alambre sólido circular de 200 m de longitud y con un diámetro de 0.4 mm tiene una resistencia de 357 Ω  a 20°C. ¿De qué material está hecho el alambre?
 Está hecho de PLOMO
 
-
+<img src=imagenes/ejercicio8.jpeg width= "320">
 
 10.  Una sección de alambre de hierro con un diámetro de 0.030 pulgadas tiene una resistencia de 2 500 Ω (a una temperatura de 20°C).
 a. Determine el área de la sección transversal en metros cuadrados y en milímetros cuadrados. (Nota: una pulgada = 2.54 cm = 25.4 mm)
 
-
+<img src=imagenes/ejercicio10.jpeg width= "320">
 
 12. Use la tabla 3-2 para encontrar la resistencia de 250 m de conductores de cobre sólido AWG 8 y AWG 2. Compare los diámetros y resistencias de los alambres.
 
