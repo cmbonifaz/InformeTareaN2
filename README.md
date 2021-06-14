@@ -187,6 +187,8 @@ El posible intervalo de potencia es :361< P< 441
 
 **46. La batería de 12V de la figura 4-39 está siendo “cargada” por un cargador. La corriente es de 4.5A como se indica.** 
 
+<img src="imagenes/ejer46.jpg">
+
 **A. ¿Cual es la dirección de la corriente?**
 
 La dirección de la corriente es positiva osea hacia la derecha.
@@ -207,9 +209,15 @@ P=54W
 
 **A. Determine la energía usada en joules**
 
+<img src="imagenes/ejer47a.jpeg">
+
 **B. Determine la energía usada en watts-hora**
 
+<img src="imagenes/ejer47b.jpeg">
+
 **C. A $0.08/kWh, ¿Cuánto cuesta encender esta lámpara por 9 horas?**
+
+<img src="imagenes/ejer47c.jpeg">
 
 **48. Una lámpara indicadora en un papel de control opera de forma continua, requiere 20mA de un suministro de 120V. A $0.09 por kilowatt-hora ¿Cuánto cuesta al año el funcionamiento de esta lámpara?**
 
@@ -281,6 +289,8 @@ Costo=7.26 ctvs
 
 **D.Un cautín de 120V y 288Ω por 24 minutos**
 
+<img src="imagenes/ejer49d.jpeg">
+
 **50. Un dispositivo eléctrico con un ciclo de una hora opera a su máxima potencia 400W por 15 minutos, a potencia media por 30 minutos, luego se apaga por el resto de la hora. El ciclo se repite de manera continua. A $0.10/kWh, determine el costo anual para operar este dispositivo.**
 
 W=(400)(15/60)+(200)(30/60)
@@ -300,9 +310,47 @@ hacen:**
 
 **A.Un calentador de 4 kW, de forma continua**
 
+W2=(4kW)(8760h)
+
+W2=35040 kWh
+
 **B.Un calentador de 3.6 kW 12 horas al día.**
 
+W3=(3.6kW)(24)=86.4(365)=31536kWh
+
+Wtotal= 1752kWh +35040 kWh +31536kWh
+
+W total= 68328 kWh
+
+costo= 68328 kWh x 0.10 kWh
+
+costo=$6832.8
+
 **52. A $0.08 por kilowatt-hora, cuesta $1.20 operar un calentador por 50 horas con una fuente de 120 V. ¿Cuánta corriente demanda el calentador?**
+
+costo= W x Costo por kilowatt-hora
+
+$1.20 = W x $0.08 por kilowatt-hora
+
+W= 120/0.08
+
+W= 15 kWh
+
+W=Pxt
+
+P=W/t
+
+P=15 kWh / 50h
+
+P=0.3 kW
+
+I=P/V
+
+I= 0.3 kW/120 V
+
+I=1/400 kA
+
+I=2.5A
 
 **53. Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de 1 100 W que tarda 1 minuto y 45 segundos en tostarlas, a $0.13/kWh ¿cuánto costaría tostar toda la barra?**
 
