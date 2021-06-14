@@ -618,6 +618,8 @@ La intensidad cambia en 1 A
 
 ### 4. VIDEO
 
+[Problemas Capítulos 3 y 4 - Informe Tarea N°2](https://youtu.be/HFAaTkVXWOg "Problemas Capítulos 3 y 4 - Informe Tarea N°2")
+
 ### 5. CONCLUSIONES 
 
 - Se puede concluir que mediante el estudio de resistencias,ley de Ohm, potencia y energía se puede encontrar una gran variedad de ejercicios y con ello reforzar lo aprendido mediante clases.
