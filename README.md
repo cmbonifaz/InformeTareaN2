@@ -620,6 +620,8 @@ La intensidad cambia en 1 A
 
 ### 5. CONCLUSIONES 
 
+- Se puede concluir que mediante el estudio de resistencias,ley de Ohm, potencia y energía se puede encontrar una gran variedad de ejercicios y con ello reforzar lo aprendido mediante clases.
+
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
