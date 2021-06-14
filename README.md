@@ -125,6 +125,8 @@ El circuito soporta 50A por lo que al conectar el tostador, se sobrecargaria el 
 
 **41. Un resistor de 0.27 kΩ es especificado en 2W. Calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación.**
 
+<img src="imagenes/ejer41.jpg">
+
 **42. Determinar cuál de los siguientes resistores pudo haber sido dañado por sobrecalentamiento. Explique su respuestas**
 
 **A. 560Ω, ½ W con 75V a través de él**
@@ -175,39 +177,13 @@ El posible intervalo de potencia es :361< P< 441
 
 **44. Una carga de resistencia hecha de alambre de cobre se conecta a una fuente de cd de 24V. La potencia disipada por la carga cuando la temperatura del alambre es de 20 °C es de 192W. ¿Cuál será la potencia disipada cuando la temperatura del alambre disminuya a -10°C? (Suponga que el voltaje permanece constante).**
 
+<img src="imagenes/ejer44.jpeg">
+
 **45. Cada bloque de la figura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su potencia y dirección.**
 
-**A.**
+<img src="imagenes/ejer45a.jpeg">
 
-P = VxI
-
-P= 12Vx4A
-
-P= 48W
-
-**B.**
-
-P = VxI
-
-P=-15Vx2A
-
-P=-30 W
-
-**C.**
-
-P = VxI
-
-P= 8Vx-16A
-
-P=-128 W
-
-**D.**
-
-P = VxI
-
-P= -30Vx-8A
-
-P=240 W
+<img src="imagenes/ejer45b.jpeg">
 
 **46. La batería de 12V de la figura 4-39 está siendo “cargada” por un cargador. La corriente es de 4.5A como se indica.** 
 
