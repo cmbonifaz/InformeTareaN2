@@ -17,6 +17,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 4 (Ley de Ohm, potencia y energía
 
+<img src=imagenes/cap4.png>
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 #### Capitulo 3 (Resistencia)
