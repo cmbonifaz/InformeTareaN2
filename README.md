@@ -21,7 +21,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 3 (Resistencia)
 
-2.- Determine la resistencia, a 20ºC, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales:
+2. Determine la resistencia, a 20ºC, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales:
 
 
 
@@ -44,6 +44,12 @@ a. Determine el área de la sección transversal en metros cuadrados y en milím
 
 
 12. Use la tabla 3-2 para encontrar la resistencia de 250 m de conductores de cobre sólido AWG 8 y AWG 2. Compare los diámetros y resistencias de los alambres.
+
+
+
+AWG 8: Diámetro de 0.1285 pulgadas. Resistencia 0.6281 
+
+AWG 2: Diámetro de 0.2575 pulgadas. Resistencia 0.1563 
 
 #### Capitulo 4 (Ley de Ohm, potencia y energía)
 
