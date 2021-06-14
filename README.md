@@ -599,21 +599,22 @@ La intensidad cambia en 1 A
 
 **69. Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado el par voltaje/resistencia del problema 1a, 1c, 1d y 1e.**
 
+<img src=imagenes/ejer69a.jpeg>
+
+<img src=imagenes/ejer69b.jpeg>
+
 **70. Un cargador de batería con un voltaje de 12.9 V se usa para cargar una batería, véase la figura 4-42(a). La resistencia interna del cargador es 0.12 Ω y el voltaje de la batería, parcialmente desgastada, es 11.6 V. El circuito equivalente para la combinación cargador/batería se muestra en (b). Usted razona que como los dos voltajes están en oposición, el voltaje neto para el circuito será 12.9 V -11.6V = 1.3 V y por tanto la corriente de carga I será 1.3 V/0.12Ω = 10.8 A.Configure el circuito (b) y use Multisim para verificar su conclusión.**
+
+<img src=imagenes/ejer70.jpeg>
+
+<img src=imagenes/ejer70a.jpeg>
 
 **71. Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK.Coloque en la pantalla y haga doble clic en su símbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor (Value), tecleé la letra A y haga clic en OK. [Esto reetiqueta el interruptor como (A). Presione la tecla A varias veces y observe que el interruptor abre y cierra.] Seleccione un segundo interruptor y etiquételo (B).Agregue una fuente de cd de 12 V y una lámpara. Para agregar la lámpara haga clic en Coloca/Componente (Place/Component) y a partir de la caja de Grupo (Group),seleccione Lámpara_virtual (Virtual_lamp). Arme el circuito de la figura 2-27, opere los interruptores y determine si consiguió exitosamente el control de dos vías**
 
-**72.Repita el problema 69 con PSpice.**
+<img src=imagenes/ejer71.jpeg>
 
-**73.Repita el problema 70 con PSpice.**
+<img src=imagenes/ejer71a.jpeg>
 
-**74. Repita el análisis de la ley de Ohm (figura 4-32) pero ahora use R = 25Ω y haga un barrido del voltaje de la fuente de 10 V a 10 V en incrementos de 1 V. En esta gráfica ¿qué significa el valor negativo de la corriente?**
-
-**75. El cursor puede usarse para leer valores desde las gráficas de PSpice. Obtenga la gráfica del problema 74 en la pantalla y:**
-
-**A. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga clic en Despliegue (Display), entonces posicione el cursor en la gráfica y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.**
-
-**B.El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.**
 
 ### 4. VIDEO
 
