@@ -45,7 +45,7 @@ a. Determine el área de la sección transversal en metros cuadrados y en milím
 
 12. Use la tabla 3-2 para encontrar la resistencia de 250 m de conductores de cobre sólido AWG 8 y AWG 2. Compare los diámetros y resistencias de los alambres.
 
-
+<img src=imagenes/ejercicio12imagen.jpeg width= "180">
 
 AWG 8: Diámetro de 0.1285 pulgadas. Resistencia 0.6281 
 
