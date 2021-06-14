@@ -177,11 +177,11 @@ El posible intervalo de potencia es :361< P< 441
 
 **44. Una carga de resistencia hecha de alambre de cobre se conecta a una fuente de cd de 24V. La potencia disipada por la carga cuando la temperatura del alambre es de 20 °C es de 192W. ¿Cuál será la potencia disipada cuando la temperatura del alambre disminuya a -10°C? (Suponga que el voltaje permanece constante).**
 
-<img src="imagenes/ejer44.jpeg">
+<img src="imagenes/Ejer44.jpeg">
 
 **45. Cada bloque de la figura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su potencia y dirección.**
 
-<img src="imagenes/ejer45a.jpeg">
+<img src="imagenes/Ejer45a.jpeg">
 
 <img src="imagenes/ejer45b.jpeg">
 
