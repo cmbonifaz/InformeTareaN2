@@ -354,57 +354,216 @@ I=2.5A
 
 **53. Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de 1 100 W que tarda 1 minuto y 45 segundos en tostarlas, a $0.13/kWh ¿cuánto costaría tostar toda la barra?**
 
+<img src="imagenes/ejer53.jpeg">
+
 **54.La potencia de entrada de un motor con una eficiencia de 85% es de 690 W.¿Cuál es la potencia de salida?**
 
 **A.en watts**
 
+P.sal = P.ent * n
+
+=690W*85%
+
+=586.5W
+
 **B.en hp**
+
+690W = 0.92hp
+
+=0.92hp*85%
+
+=0.78hp
 
 **55. La potencia de salida de un transformador con n=97% es de 50 kW.¿Cuál es la potencia de entrada?**
 
+P.ent=P.sal/n
+
+= 50kw/97%
+
+= 51.5kw
+
 **56. Para un dispositivo específico, n=94%. Si las pérdidas son de 18 W, ¿cuánto valen Pent y Psal?**
 
+<img src="imagenes/ejer56.jpeg">
+
 **57. La potencia de entrada de un dispositivo es de 1 100 W. Si la potencia que se pierde debido a varias ineficiencias es de 190 W, ¿cuál es la eficiencia del dispositivo?**
+
+P.ent - P.perd = P.sal
+
+1100W - 190W = 910W
+
+n=P.sal/P.ent
+
+=910W/1100W * 100
+
+=82.7%
 
 **58. Un calentador de agua de 240 V y 4.5 A produce una energía calorífica a razón de 3.6 MJ por hora. Calcule:**
 
 **A. La eficiencia del calentador de agua.**
 
+<img src="imagenes/ejer58a.jpeg">
+
+
 **B.El costo anual de operación a $0.09 kWh, si está encendido 6 horas al día.**
+
+P=ExI
+
+P= 240V x 4.5A
+
+P=1080 W 
+
+W=(1080 W)x(6h)
+
+W= 6480 Wh
+
+W=6480Wh= 6.48kWh
+
+costo= (6.48kWh)($0.09 kWh)
+
+costo= $0.5832 
 
 **59. Un motor de cd de 120 V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?**
 
+(120V)(15A) = 1800W
+
+P.sal = P.ent x n 
+
+= 1800W * 89%
+
+= 1602W
+
+= 2.15hp
+
 **60. Un motor de cd de 120 V desarrolla una salida de 3.8 hp. Si su eficiencia es de 88%, ¿cuánta corriente demanda?**
+
+<img src="imagenes/ejer60.jpeg">
 
 **61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo?**
 
+<img src="imagenes/ejer61.jpeg">
+
+(48V)(180A) = 8640W
+
+nt=(0.95)(0.80) = 76%
+
+P.sal = P.ent * nt
+
+= 8640W * 76%
+
+= 6566.4W
+
+= 8.8hp
+
 **62.Demuestre que la eficiencia de n dispositivos o sistemas en cascada es el producto de sus eficiencias individuales, es decir, que nT=n1 x n2 x … x nn**
+
+Para los sistemas con subsistemas y componentes en cascada (figura 4-23), la eficiencia total es el producto de las eficiencias de cada parte individual, donde las eficiencias se expresan en forma decimal. nt = n1*n2*...nn.
+
+<img src="imagenes/ejer62.jpeg">
+
+Para cierto sistema, n₁= 95%, n₂= 85% y n₃= 75% ¿Cuánto vale nt?
+
+Si nt= 65%, n₂= 80% y n₃= 90% ¿Cuanto vale n₁?
+
+Se convierten todas las eficiencias a un valor decimal y entonces se multiplican. Por lo que, nt= n₁n₂n₃= 
+
+(0.95)(0.85)(0.75) 0.61 o 61%
+
+ n₁= nt//n₂n₃)=  (0.65) (0.80  0.90) 0.903 o 90.3% 
 
 **63. Un motor de cd de 120 V opera una bomba a través de una caja de engranes (figura 4-24). Si la potencia de entrada a la bomba es de 1100 W, la caja de engranes tiene una eficiencia de 75% y la potencia de entrada al motor es de 1600 W, determine los caballos de potencia de salida del motor.**
 
+<img src="imagenes/ejer63.jpeg">
+
+P.ent= 1100 * 100 / 75 = 1466.67W
+
+P.sal = 1466.67 * 1hp/ 745.9 
+
+= 1.97hp
+
 **64. Si el motor del problema 63 se protege con un interruptor automático de 15 A, ¿se abrirá? Calcule la corriente para verificarlo.**
+
+I = 1600W/120A
+
+= 13.33A
+
+No se abre ya que es menor a 15A
 
 **65. Si la eficiencia total de una estación radio transmisora es de 55% y transmite a 35 kW por 24 h/día, calcule el costo de energía que usa cada día a $0.09/kWh.**
 
+w = 35kw * 24h =840kwh / 55% = 1527.27kwh
+
+1527.27kwh * $0.09 
+
+$137.45
+
 **66. En una fábrica hay dos máquinas que entregan cada una 27 kW, se usan promedio de 8.7 h/día, 320 días/año. Si la eficiencia de la máquina más nueva es de 87% y la de la máquina vieja es de 72%, calcule la diferencia en costo por año de operación a $0.10 por kilowatt-hora.**
+
+W=27kW x 8.7 h = 234.9 kWh*320 dias =75168 kWh
+
+Psal1= 75168 kWh x 87%=65396.16 kWh
+
+Psal2=75168 kWh x 72% = 54120.96  kWh 
+
+Costo 1 = (65396.16 kWh) x ($0.10 por kilowatt-hora)
+
+Costo 1 =$ 6539.616
+
+Costo 2 = (54120.96  kWh) x ($0.10 por kilowatt-hora)
+
+Costo 2 =$5412.096
+
+$ 6539.616 - $5412.096 =$1127.52
 
 **67. Un resistor que depende del voltaje tiene la característica I-V de la figura 4-41.**
 
+<img src="imagenes/ejer67y68.jpeg">
+
 **A. En V=25 V, ¿cuánto valen I y Rcd?**
+
+I=2.5(A)
+
+25V/2.5I = 10
+
+Rcd = 10Ω
 
 **B. En V=60 V, ¿cuánto valen I yRcd?**
 
+I=4.5(A)
+
+60V/4.5I = 13.3
+
+Rcd = 13.3Ω
+
 **C. ¿Por qué los dos valores son diferentes?**
+
+Porque se hizo el cálculo con el resistor no lineal, para que salga de igual manera deberá hacerse los cálculos con el resistor lineal 
 
 **68. Para el resistor de la figura 4-41:**
 
+<img src="imagenes/ejer67y68.jpeg">
+
 **A.Determine Rdinámica para V entre 0 y 40 V.**
+
+R= 4-0 /40-0 = 4A / 40V
+
+R= 0.5Ω
 
 **B.Determine Rdinámica para V mayor que 40 V.**
 
+R= 5-4 / 80-40 = 1A / 20V
+
+R= 0.05Ω
+
 **C.Si V cambia de 20 a 30 V, ¿cuánto cambia I?**
 
+La intensidad cambia en 1 A
+
 **D.Si V cambia de 50 a 70 V, ¿cuánto cambia I?**
+
+0.875-0.25
+
+= 0.625A
 
 **69. Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado el par voltaje/resistencia del problema 1a, 1c, 1d y 1e.**
 
