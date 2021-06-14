@@ -10,7 +10,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 **Tema:** Capitulo 3 (Resistencia) y capitulo 4 (Ley de Ohm, potencia y energía) de Análisis de Circuitos - Robbins, Miller
 
 ### 1. OBJETIVOS
-
+- Emplear la teoria de resistencias,ley de Ohm, potencia y energía para la resolucion de ejercicios de circuitos eléctricos.
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 3 (Resistencia)
