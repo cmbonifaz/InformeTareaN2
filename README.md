@@ -14,6 +14,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Conocer y analizar las ideas y conceptos básicos sobre las resistencias y como se calculan, así como también sobre Ley de Ohm, potencia y energía.
 
+- Adquirir nuevos conocimientos esenciales para nuestro desarrollo dentro de circuitos eléctricos.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 3 (Resistencia)
@@ -823,6 +825,7 @@ La intensidad cambia en 1 A
 
 - Se puede concluir que mediante el estudio de resistencias,ley de Ohm, potencia y energía se puede encontrar una gran variedad de ejercicios y con ello reforzar lo aprendido mediante clases.
 
+- Gracias al análisis y estudio de estos temas ya podemos comprender un poco mas del campo de los circuitos, tanto su funcionamiento como su estructura.
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
