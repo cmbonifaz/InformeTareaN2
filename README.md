@@ -135,6 +135,20 @@ d.- 2.7 MΩ ± 5 %
 
 Rojo-Violeta-Violeta-Oro
 
+42. Para la fotocelda que tiene las características que se muestra en la figura 3-24(c), determine la resistencia 
+
+a.-	en un sótano con iluminación atenuada de 10 lux 
+
+R= 20kΩ
+
+b.-	en una casa con una iluminación de 50 lux 
+
+R=5.02kΩ
+
+c.-	en un salón de clases con una iluminación de 500 lux
+
+R=550 Ω
+
 44. Determine la resistencia de los componentes que tienen las siguientes conductancias:
 
 a.-  62.5 uS 
