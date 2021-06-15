@@ -87,6 +87,31 @@ c.- 250 MMC = 250 000 MC = 500 milésimas = 0.5 pulgadas= 12.7 milímetros
 
 d.- 750 MMC = 750 000 MC= 866 milésimas= 0.866 pulgadas= 21.9 milímetros
 
+22. Repita el problema 21 si el alambre está hecho de nicromo.
+
+Un alambre de nicromo sólido de 200 pies tiene una resistencia de 0.500 ohm. 
+
+a.	Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares. 
+
+(imagen)
+
+b.	Determine el diámetro del alambre en milésimas y en pulgadas.
+
+d= 11.53 milésimas =0.011pulgadas 
+
+26. Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+
+(imagen)
+
+28. Cierto material tiene una resistencia de 100 Ω a temperatura ambiente (20°C) y de 150 Ω a -25°C. 
+
+a.- ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente. 
+
+Un incremento en la temperatura resulta en una disminución de la resistencia y, en consecuencia, estos materiales tienen coeficientes de temperatura negativos.
+
+b.- Determine al valor del coeficiente de temperatura, a, a 20°C. 
+
+(imagen)
 
 
 #### Capitulo 4 (Ley de Ohm, potencia y energía)
