@@ -93,7 +93,7 @@ Un alambre de nicromo sólido de 200 pies tiene una resistencia de 0.500 ohm.
 
 a.	Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares. 
 
-(imagen)
+<img src=imagenes/a1.png>
 
 b.	Determine el diámetro del alambre en milésimas y en pulgadas.
 
@@ -101,7 +101,7 @@ d= 11.53 milésimas =0.011pulgadas
 
 26. Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
 
-(imagen)
+<img src=imagenes/a2.png>
 
 28. Cierto material tiene una resistencia de 100 Ω a temperatura ambiente (20°C) y de 150 Ω a -25°C. 
 
@@ -111,11 +111,11 @@ Un incremento en la temperatura resulta en una disminución de la resistencia y,
 
 b.- Determine al valor del coeficiente de temperatura, a, a 20°C. 
 
-(imagen)
+<img src=imagenes/a3.png>
 
 34. Se mide la resistencia entre la terminal b del contacto deslizante y la terminal inferior c de un resistor variable de 200 kΩ y da 50 kΩ. Determine la resistencia que se medirá entre la terminal superior a, y la terminal del contacto deslizante b.
 
-(imagen)
+<img src=imagenes/a4.png>
 
 36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto: 
 
@@ -153,13 +153,23 @@ R=550 Ω
 
 a.-  62.5 uS 
  
-b.- 2 500 mS 
+<img src=imagenes/a5.png> 
  
+b.- 2 500 mS 
+
+<img src=imagenes/a6.png>
+
 c.- 5.75 mS 
+
+<img src=imagenes/a7.png>
 
 d.- 25.0 S
 
+<img src=imagenes/a8.png>
+
 46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x 0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?
+
+<img src=imagenes/a9.png>
 
 #### Capitulo 4 (Ley de Ohm, potencia y energía)
 
