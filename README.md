@@ -55,6 +55,40 @@ AWG 8: Diámetro de 0.1285 pulgadas. Resistencia 0.6281
 
 AWG 2: Diámetro de 0.2575 pulgadas. Resistencia 0.1563 
 
+14. Si el AWG 8 se especifica para un máximo de 40 A, ¿cuánta corriente podrá conducir con seguridad el AWG 2?
+
+Ya que el alambre AWG 8 es 6 veces menor que AWG 2, el cable de diámetro menor será capaz de conducir cerca de una sexto de la capacidad del cable de diámetro mas grande. 
+
+AWG 8: Será capaz de conducir 6.6 A de corriente.
+
+AWG 2: Será capaz de conducir 40 A  
+
+16. ¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?
+
+La capacidad de corriente se duplica por cada incremento de tres calibres, y se reduce de igual forma, el AWG 36 será capaz de conducir 2 A. 
+
+18. Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas y milímetros cuadrados.
+
+1 milésima cuadrada =4/π MC
+
+a.- 265 MC = 208 milésimas cuadradas = 134 .19 milímetros cuadrados.
+
+b.- 6200 MC = 4869 milésimas cuadradas = 3141.3 milímetros cuadrados.
+
+c.- 1910 MC = 1500 milésimas cuadradas = 967.7 milímetros cuadrados.
+
+20. Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
+
+a.- 250 MC = 15.8 milésimas = 0.0158 pulgadas = 0.40132 milímetros 
+
+b.- 1000 MC = 31. 63 milésimas = 0.0316 pulgadas= 0.80264 milímetros
+
+c.- 250 MMC = 250 000 MC = 500 milésimas = 0.5 pulgadas= 12.7 milímetros
+
+d.- 750 MMC = 750 000 MC= 866 milésimas= 0.866 pulgadas= 21.9 milímetros
+
+
+
 #### Capitulo 4 (Ley de Ohm, potencia y energía)
 
 **20. En un circuito resistivo, E se cuadruplica y R se reduce a la mitad. Si la nueva corriente es de 24 A, ¿cuál era el valor de la corriente original?**
