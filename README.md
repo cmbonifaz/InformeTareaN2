@@ -743,6 +743,8 @@ La intensidad cambia en 1 A
 
 ### 5. CONCLUSIONES 
 
+- Mediante el desarrollo de los ejercicios pudimos comprender más ampliamente los conceptos sobre la resistenia, así como también todos los elementos asociados a ella como el cálculo de las mismas, como se componen y cómo se miden.
+
 - Se puede concluir que mediante el estudio de resistencias,ley de Ohm, potencia y energía se puede encontrar una gran variedad de ejercicios y con ello reforzar lo aprendido mediante clases.
 
 ### 6. BIBLIOGRAFÍA
