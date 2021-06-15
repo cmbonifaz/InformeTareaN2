@@ -28,29 +28,29 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 3 (Resistencia)
 
-2. Determine la resistencia, a 20ºC, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales:
+**2. Determine la resistencia, a 20ºC, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales:**
 
 <img src=imagenes/ejercicio2.jpeg width= "520">
 
-4. El alambre de nicromo se usa para construir elementos calefactores. Determine la longitud de un alambre de nicromo de 1.0 mm de diámetro que se necesita para producir un elemento calefactor que tenga una resistencia de 2.0 ohm a una temperatura de 20°C.
+**4. El alambre de nicromo se usa para construir elementos calefactores. Determine la longitud de un alambre de nicromo de 1.0 mm de diámetro que se necesita para producir un elemento calefactor que tenga una resistencia de 2.0 ohm a una temperatura de 20°C.**
 
 <img src=imagenes/ejercicio4.jpeg width= "320">
 
-6. Una pieza de alambre de aluminio tiene una resistencia, a 20°C, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿cuál será la resistencia del nuevo alambre a 20°C? (Sugerencia: el volumen del alambre no ha cambiado.)
+**6. Una pieza de alambre de aluminio tiene una resistencia, a 20°C, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿cuál será la resistencia del nuevo alambre a 20°C? (Sugerencia: el volumen del alambre no ha cambiado.)**
 
 <img src=imagenes/ejercicio6.jpeg width= "320">
 
-8. Un alambre sólido circular de 200 m de longitud y con un diámetro de 0.4 mm tiene una resistencia de 357 Ω  a 20°C. ¿De qué material está hecho el alambre?
-Está hecho de PLOMO
+**8. Un alambre sólido circular de 200 m de longitud y con un diámetro de 0.4 mm tiene una resistencia de 357 Ω  a 20°C. ¿De qué material está hecho el alambre?
+Está hecho de PLOMO**
 
 <img src=imagenes/ejercicio8.jpeg width= "320">
 
-10.  Una sección de alambre de hierro con un diámetro de 0.030 pulgadas tiene una resistencia de 2 500 Ω (a una temperatura de 20°C).
-a. Determine el área de la sección transversal en metros cuadrados y en milímetros cuadrados. (Nota: una pulgada = 2.54 cm = 25.4 mm)
+**10.  Una sección de alambre de hierro con un diámetro de 0.030 pulgadas tiene una resistencia de 2 500 Ω (a una temperatura de 20°C).
+a. Determine el área de la sección transversal en metros cuadrados y en milímetros cuadrados. (Nota: una pulgada = 2.54 cm = 25.4 mm)**
 
 <img src=imagenes/ejercicio10.jpeg width= "320">
 
-12. Use la tabla 3-2 para encontrar la resistencia de 250 m de conductores de cobre sólido AWG 8 y AWG 2. Compare los diámetros y resistencias de los alambres.
+**12. Use la tabla 3-2 para encontrar la resistencia de 250 m de conductores de cobre sólido AWG 8 y AWG 2. Compare los diámetros y resistencias de los alambres.**
 
 <img src=imagenes/ejercicio12imagen.jpeg width= "180">
 
@@ -58,7 +58,7 @@ AWG 8: Diámetro de 0.1285 pulgadas. Resistencia 0.6281
 
 AWG 2: Diámetro de 0.2575 pulgadas. Resistencia 0.1563 
 
-14. Si el AWG 8 se especifica para un máximo de 40 A, ¿cuánta corriente podrá conducir con seguridad el AWG 2?
+**14. Si el AWG 8 se especifica para un máximo de 40 A, ¿cuánta corriente podrá conducir con seguridad el AWG 2?**
 
 Ya que el alambre AWG 8 es 6 veces menor que AWG 2, el cable de diámetro menor será capaz de conducir cerca de una sexto de la capacidad del cable de diámetro mas grande. 
 
@@ -66,11 +66,11 @@ AWG 8: Será capaz de conducir 6.6 A de corriente.
 
 AWG 2: Será capaz de conducir 40 A  
 
-16. ¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?
+**16. ¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?**
 
 La capacidad de corriente se duplica por cada incremento de tres calibres, y se reduce de igual forma, el AWG 36 será capaz de conducir 2 A. 
 
-18. Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas y milímetros cuadrados.
+**18. Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas y milímetros cuadrados.**
 
 1 milésima cuadrada =4/π MC
 
@@ -80,7 +80,7 @@ b.- 6200 MC = 4869 milésimas cuadradas = 3141.3 milímetros cuadrados.
 
 c.- 1910 MC = 1500 milésimas cuadradas = 967.7 milímetros cuadrados.
 
-20. Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
+**20. Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):**
 
 a.- 250 MC = 15.8 milésimas = 0.0158 pulgadas = 0.40132 milímetros 
 
@@ -90,87 +90,87 @@ c.- 250 MMC = 250 000 MC = 500 milésimas = 0.5 pulgadas= 12.7 milímetros
 
 d.- 750 MMC = 750 000 MC= 866 milésimas= 0.866 pulgadas= 21.9 milímetros
 
-22. Repita el problema 21 si el alambre está hecho de nicromo.
+**22. Repita el problema 21 si el alambre está hecho de nicromo.**
 
 Un alambre de nicromo sólido de 200 pies tiene una resistencia de 0.500 ohm. 
 
-a.	Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares. 
+**a.	Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares.** 
 
 <img src=imagenes/a1.PNG>
 
-b.	Determine el diámetro del alambre en milésimas y en pulgadas.
+**b.	Determine el diámetro del alambre en milésimas y en pulgadas.**
 
 d= 11.53 milésimas =0.011pulgadas 
 
-26. Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+**26. Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.**
 
 <img src=imagenes/a2.PNG>
 
-28. Cierto material tiene una resistencia de 100 Ω a temperatura ambiente (20°C) y de 150 Ω a -25°C. 
+**28. Cierto material tiene una resistencia de 100 Ω a temperatura ambiente (20°C) y de 150 Ω a -25°C.** 
 
-a.- ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente. 
+**a.- ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.** 
 
 Un incremento en la temperatura resulta en una disminución de la resistencia y, en consecuencia, estos materiales tienen coeficientes de temperatura negativos.
 
-b.- Determine al valor del coeficiente de temperatura, a, a 20°C. 
+**b.- Determine al valor del coeficiente de temperatura, a, a 20°C.** 
 
 <img src=imagenes/a3.PNG>
 
-34. Se mide la resistencia entre la terminal b del contacto deslizante y la terminal inferior c de un resistor variable de 200 kΩ y da 50 kΩ. Determine la resistencia que se medirá entre la terminal superior a, y la terminal del contacto deslizante b.
+**34. Se mide la resistencia entre la terminal b del contacto deslizante y la terminal inferior c de un resistor variable de 200 kΩ y da 50 kΩ. Determine la resistencia que se medirá entre la terminal superior a, y la terminal del contacto deslizante b.**
 
 <img src=imagenes/a4.PNG>
 
-36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto: 
+**36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto:** 
 
-a.- 33 kΩ ± 5%, 0.1% de confiabilidad
+**a.- 33 kΩ ± 5%, 0.1% de confiabilidad**
 
 Naranja-Naranja-Negro-Oro-Rojo
 
-b.- 820 Ω ± 10% 
+**b.- 820 Ω ± 10%**
 
 Gris-Rojo-Café-Plata
 
-c.- 15 Ω ± 20% 
+**c.- 15 Ω ± 20%** 
 
 Café-Verde-Negro-Sin color
 
-d.- 2.7 MΩ ± 5 %
+**d.- 2.7 MΩ ± 5 %**
 
 Rojo-Violeta-Violeta-Oro
 
-42. Para la fotocelda que tiene las características que se muestra en la figura 3-24(c), determine la resistencia 
+**42. Para la fotocelda que tiene las características que se muestra en la figura 3-24(c), determine la resistencia** 
 
-a.-	en un sótano con iluminación atenuada de 10 lux 
+**a.-	en un sótano con iluminación atenuada de 10 lux** 
 
 R= 20kΩ
 
-b.-	en una casa con una iluminación de 50 lux 
+**b.-	en una casa con una iluminación de 50 lux** 
 
 R=5.02kΩ
 
-c.-	en un salón de clases con una iluminación de 500 lux
+**c.-	en un salón de clases con una iluminación de 500 lux**
 
 R=550 Ω
 
-44. Determine la resistencia de los componentes que tienen las siguientes conductancias:
+**44. Determine la resistencia de los componentes que tienen las siguientes conductancias:**
 
-a.-  62.5 uS 
+**a.-  62.5 uS** 
  
 <img src=imagenes/a5.PNG>
  
-b.- 2 500 mS 
+**b.- 2 500 mS** 
 
 <img src=imagenes/a6.PNG>
 
-c.- 5.75 mS 
+**c.- 5.75 mS** 
 
 <img src=imagenes/a7.PNG>
 
-d.- 25.0 S
+**d.- 25.0 S**
 
 <img src=imagenes/a9.PNG>
 
-46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x 0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?
+**46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x 0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?**
 
 <img src=imagenes/a10.PNG>
 
