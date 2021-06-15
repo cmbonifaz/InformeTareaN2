@@ -11,6 +11,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 - Emplear la teoria de resistencias,ley de Ohm, potencia y energía para la resolucion de ejercicios de circuitos eléctricos.
+
+- Conocer y analizar las ideas y conceptos básicos sobre las resistencias y como se calculan, así como también sobre Ley de Ohm, potencia y energía.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 3 (Resistencia)
