@@ -176,6 +176,82 @@ d.- 25.0 S
 
 #### Capitulo 4 (Ley de Ohm, potencia y energía)
 
+**1. Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.**
+
+<img src="imágenes/Ejer-1.jpg">
+
+**2. Determine R para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: ohms, kilohms, megaohms, etcétera.**
+
+
+
+**3. Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:**
+
+
+
+**4. Un calentador de agua de 48 ohm se conecta a una fuente de 120 V. ¿Cuál es la corriente que demanda?**
+
+
+
+**5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?**
+
+
+
+**6. ¿Cuál es la diferencia de potencial entre los extremos de un resistor de 20 ohm cuando su corriente es de 3x10^-3 A?**
+
+
+
+**7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 ohm, si la corriente no debe exceder de 50 mA?**
+
+
+
+**8. Un relevador con una resistencia de la bobina de 240 ohm requiere un mínimo de 50 mA para operar. ¿Cuál es el mínimo voltaje para que funcione?**
+
+
+
+**9.	En la figura 4-33, si E=30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3.**
+
+
+
+**10.	Si I=36 mA cuando E=12 V, ¿cuánto vale I si la fuente de 12 V es: a. reemplazada por una de 18 V? b. reemplazada por una de 4 V?**
+
+
+
+**11.	La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿cuál es su código de colores?**
+
+
+
+**12. En el circuito de la figura 4-34, a. Si E=28 V, ¿qué indica el medidor? b. Si E=312 V, ¿qué indica el medidor?**
+
+
+
+**13.	En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?**
+
+
+
+**14.	Una fuente de voltaje de 20 V se aplica a un resistor con bandas café, negra, roja y plata a. Calcule la corriente nominal en el circuito. b. Calcule las corrientes mínima y máxima con base en la tolerancia del resistor**
+
+
+
+**15.	Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V ¿cuál es la corriente a. a 20°C? b. a 40°C?**
+
+
+
+**16.	Se construirá un electroimán con alambre de cobre con 0.643 mm de diámetro. Para crear el campo magnético requerido, la corriente en la bobina debe de ser 1.75 A a 20˚C. El electroimán será alimentado por una fuente de 9.6 V. ¿Cuántos metros de alambre se necesitan para hacer la bobina?**
+
+
+
+**17.	Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20˚C es de 200 mA ¿cuál es el voltaje aplicado?**
+
+
+
+**18.	Haga una gráfica de la ley de Ohm similar a la de la figura 4-7 para un resistor de 2.5 kohm y uno de 5 kohm. Calcule y trace los puntos cada 5 V desde que E=0 V hasta 25 V. Lea los valores de la gráfica, para encontrar la corriente cuando E=14 V.**
+
+
+
+**19.	La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R?**
+
+
+
 **20. En un circuito resistivo, E se cuadruplica y R se reduce a la mitad. Si la nueva corriente es de 24 A, ¿cuál era el valor de la corriente original?**
 
 <img src="imagenes/t1.png">
