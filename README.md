@@ -178,79 +178,79 @@ d.- 25.0 S
 
 **1. Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.**
 
-<img src="imagenes/Ejer-1.jpg">
+<img src="imagenes/Ejer-1.jpg" width="10">
 
 **2. Determine R para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: ohms, kilohms, megaohms, etcétera.**
 
-<img src="imagenes/Ejer-2.jpg">
+<img src="imagenes/Ejer-2.jpg" width="10">
 
 **3. Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:**
 
-<img src="imagenes/Ejer-3.jpg">
+<img src="imagenes/Ejer-3.jpg" width="10">
 
 **4. Un calentador de agua de 48 ohm se conecta a una fuente de 120 V. ¿Cuál es la corriente que demanda?**
 
-<img src="imagenes/Ejer-4.jpg">
+<img src="imagenes/Ejer-4.jpg" width="10">
 
 **5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?**
 
-<img src="imagenes/Ejer-5.jpg">
+<img src="imagenes/Ejer-5.jpg" width="10">
 
 **6. ¿Cuál es la diferencia de potencial entre los extremos de un resistor de 20 ohm cuando su corriente es de 3x10^-3 A?**
 
-<img src="imagenes/Ejer-6.jpg">
+<img src="imagenes/Ejer-6.jpg" width="10">
 
 **7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 ohm, si la corriente no debe exceder de 50 mA?**
 
-<img src="imagenes/Ejer-7.jpg">
+<img src="imagenes/Ejer-7.jpg" width="10">
 
 **8. Un relevador con una resistencia de la bobina de 240 ohm requiere un mínimo de 50 mA para operar. ¿Cuál es el mínimo voltaje para que funcione?**
 
-<img src="imagenes/Ejer-8.jpg">
+<img src="imagenes/Ejer-8.jpg" width="10">
 
 **9.	En la figura 4-33, si E=30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3.**
 
-<img src="imagenes/Ejer-9.jpg">
+<img src="imagenes/Ejer-9.jpg" width="10">
 
 **10.	Si I=36 mA cuando E=12 V, ¿cuánto vale I si la fuente de 12 V es: a. reemplazada por una de 18 V? b. reemplazada por una de 4 V?**
 
-<img src="imagenes/Ejer-10.jpg">
+<img src="imagenes/Ejer-10.jpg" width="10">
 
 **11.	La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿cuál es su código de colores?**
 
-<img src="imagenes/Ejer-11.jpg">
+<img src="imagenes/Ejer-11.jpg" width="10">
 
 **12. En el circuito de la figura 4-34, a. Si E=28 V, ¿qué indica el medidor? b. Si E=312 V, ¿qué indica el medidor?**
 
-<img src="imagenes/Ejer-12.jpg">
+<img src="imagenes/Ejer-12.jpg" width="10">
 
 **13.	En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?**
 
-<img src="imagenes/Ejer-13.jpg">
+<img src="imagenes/Ejer-13.jpg" width="10">
 
 **14.	Una fuente de voltaje de 20 V se aplica a un resistor con bandas café, negra, roja y plata a. Calcule la corriente nominal en el circuito. b. Calcule las corrientes mínima y máxima con base en la tolerancia del resistor**
 
-<img src="imagenes/Ejer-14.jpg">
+<img src="imagenes/Ejer-14.jpg" width="10">
 
 **15.	Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V ¿cuál es la corriente a. a 20°C? b. a 40°C?**
 
-<img src="imagenes/Ejer-15.jpg">
+<img src="imagenes/Ejer-15.jpg" width="10">
 
 **16.	Se construirá un electroimán con alambre de cobre con 0.643 mm de diámetro. Para crear el campo magnético requerido, la corriente en la bobina debe de ser 1.75 A a 20˚C. El electroimán será alimentado por una fuente de 9.6 V. ¿Cuántos metros de alambre se necesitan para hacer la bobina?**
 
-<img src="imagenes/Ejer-16.jpg">
+<img src="imagenes/Ejer-16.jpg" width="10">
 
 **17.	Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20˚C es de 200 mA ¿cuál es el voltaje aplicado?**
 
-<img src="imagenes/Ejer-17.jpg">
+<img src="imagenes/Ejer-17.jpg" width="10">
 
 **18.	Haga una gráfica de la ley de Ohm similar a la de la figura 4-7 para un resistor de 2.5 kohm y uno de 5 kohm. Calcule y trace los puntos cada 5 V desde que E=0 V hasta 25 V. Lea los valores de la gráfica, para encontrar la corriente cuando E=14 V.**
 
-<img src="imagenes/Ejer-18.jpg">
+<img src="imagenes/Ejer-18.jpg" width="20">
 
 **19.	La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R?**
 
-<img src="imagenes/Ejer-19.jpg">
+<img src="imagenes/Ejer-19.jpg" width="10">
 
 **20. En un circuito resistivo, E se cuadruplica y R se reduce a la mitad. Si la nueva corriente es de 24 A, ¿cuál era el valor de la corriente original?**
 
