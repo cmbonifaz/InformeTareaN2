@@ -113,6 +113,39 @@ b.- Determine al valor del coeficiente de temperatura, a, a 20°C.
 
 (imagen)
 
+34. Se mide la resistencia entre la terminal b del contacto deslizante y la terminal inferior c de un resistor variable de 200 kΩ y da 50 kΩ. Determine la resistencia que se medirá entre la terminal superior a, y la terminal del contacto deslizante b.
+
+(imagen)
+
+36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto: 
+
+a.- 33 kΩ ± 5%, 0.1% de confiabilidad
+
+Naranja-Naranja-Negro-Oro-Rojo
+
+b.- 820 Ω ± 10% 
+
+Gris-Rojo-Café-Plata
+
+c.- 15 Ω ± 20% 
+
+Café-Verde-Negro-Sin color
+
+d.- 2.7 MΩ ± 5 %
+
+Rojo-Violeta-Violeta-Oro
+
+44. Determine la resistencia de los componentes que tienen las siguientes conductancias:
+
+a.-  62.5 uS 
+ 
+b.- 2 500 mS 
+ 
+c.- 5.75 mS 
+
+d.- 25.0 S
+
+46. Determine la conductancia de una barra colectora de aluminio que mide 200 pies (a una temperatura de 20°C) la cual tiene una sección transversal que mide 4.0 pulgadas x 0.25 pulgadas. Si la temperatura aumentara, ¿qué pasaría con la conductancia de la barra?
 
 #### Capitulo 4 (Ley de Ohm, potencia y energía)
 
