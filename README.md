@@ -178,7 +178,7 @@ d.- 25.0 S
 
 **1. Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.**
 
-<img src="imágenes/Ejer-1.jpg">
+<img src="imagenes/Ejer-1.jpg">
 
 **2. Determine R para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: ohms, kilohms, megaohms, etcétera.**
 
